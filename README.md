@@ -12,7 +12,17 @@ How To Run The Code:
 1. Run `nodemon app.js`
 2. Open `localhost:3000` in your browser to the app in action!
 
-*P.S. - WORK IN PROGRESS*
+*Application is also hosted on [Render](https://todolistnodejs-vevh.onrender.com)*
+
+*Give it a Try!*
+
+Technologies Used:
+------------------
+ - ejs
+ - lodash
+ - mongodb with mongoose
+ - nodejs with expressjs
+
 
 Thank You!
 -----------
